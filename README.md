@@ -15,3 +15,6 @@ Windows 通过 openvpn 走 wgetcloud 链接offsec lab网络。该脚本将openvp
 >该脚本需要使用powershell 7.4 及以上的版本运行
 
 - 下载地址: [在 Windows 上安装 PowerShell - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
+
+
+![image.png](image.png)
