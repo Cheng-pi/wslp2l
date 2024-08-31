@@ -15,9 +15,15 @@ wsl port to localhost
 ## 展示
 > [!NOTE]
 >该脚本需要使用powershell 7.4 及以上的版本运行
+>
 
 - 下载地址: [在 Windows 上安装 PowerShell - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
 
+> [!NOTE]
+>该脚本需要使用到sudo for Windows 来执行bypassuac授权操作
+>
+
+- 下载地址: [sudo for windows](https://github.com/gerardog/gsudo)
 
 ---
 
